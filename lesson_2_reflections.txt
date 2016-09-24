@@ -1,4 +1,9 @@
 What happens when you initialize a repository? Why do you need to do it?
 
-When I initialize a repository am creating a hiden file caled .git 
+When I initialize a repository am creating a hiden file called .git 
 and I need it to save all my commits in it
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+the staging area is where I chose to operate on files from the repository
+and it offers me clear sight to commit for one ligical change 
